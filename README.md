@@ -1,4 +1,4 @@
-# AI-based-solutions-company
+# Desenvolvimento de Negocios
 
 Olá, Meu nome é Eduardo e esse é o projeto de um WebSite feito apenas front end, para treinar meus conhecimentos.
 <br>
