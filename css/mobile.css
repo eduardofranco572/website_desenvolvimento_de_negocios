@@ -1,0 +1,53 @@
+@media (max-width: 425px){
+    .produtcs {
+        margin: 1rem 0 1rem 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .infosback h1 {
+        font-size: 23px;
+        color: #FEC52E;
+        max-width: 14rem;
+    }
+
+    .titulo-part1 h1 {
+        font-size: 28px;
+    }
+
+    .titulo-part3 h1 {
+        font-size: 29px;
+    }
+
+    .cardsprecos {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .titlespt4 input {
+        width: 19rem;
+    }
+
+    .texts-footer {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+    }
+   
+    .menu {
+        padding: 0 !important;
+    }
+    
+    .links {
+        display: flex;
+        margin: 0;
+        padding: 0;
+    }
+}

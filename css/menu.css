@@ -1,0 +1,22 @@
+.menu{
+    background-color: #191919;
+    height: 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 7rem 0rem 3rem;
+}
+
+.links{
+    display: flex;
+
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    padding: 1rem;
+    cursor: pointer;
+    user-select: none;
+}
