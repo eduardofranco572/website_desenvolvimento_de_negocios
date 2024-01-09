@@ -5,7 +5,7 @@ Olá, Meu nome é Eduardo e esse é o projeto de um WebSite feito apenas front e
 <br>
  <div align="center">
    <h1>Link do Site</h1>
-   https://eduardofranco572.github.io/AI-based-solutions-company/
+   [https://eduardofranco572.github.io/AI-based-solutions-company/](https://eduardofranco572.github.io/website_desenvolvimento_de_negocios/)
   <br>
   <br>
 </div>
